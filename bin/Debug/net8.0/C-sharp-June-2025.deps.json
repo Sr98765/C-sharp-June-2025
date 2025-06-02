@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C-sharp-June-2025/1.0.0": {
+        "runtime": {
+          "C-sharp-June-2025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C-sharp-June-2025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
