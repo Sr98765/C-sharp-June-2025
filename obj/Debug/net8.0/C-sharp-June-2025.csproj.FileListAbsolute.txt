@@ -1,0 +1,15 @@
+/workspaces/C-sharp-June-2025/bin/Debug/net8.0/C-sharp-June-2025
+/workspaces/C-sharp-June-2025/bin/Debug/net8.0/C-sharp-June-2025.deps.json
+/workspaces/C-sharp-June-2025/bin/Debug/net8.0/C-sharp-June-2025.runtimeconfig.json
+/workspaces/C-sharp-June-2025/bin/Debug/net8.0/C-sharp-June-2025.dll
+/workspaces/C-sharp-June-2025/bin/Debug/net8.0/C-sharp-June-2025.pdb
+/workspaces/C-sharp-June-2025/obj/Debug/net8.0/C-sharp-June-2025.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-sharp-June-2025/obj/Debug/net8.0/C-sharp-June-2025.AssemblyInfoInputs.cache
+/workspaces/C-sharp-June-2025/obj/Debug/net8.0/C-sharp-June-2025.AssemblyInfo.cs
+/workspaces/C-sharp-June-2025/obj/Debug/net8.0/C-sharp-June-2025.csproj.CoreCompileInputs.cache
+/workspaces/C-sharp-June-2025/obj/Debug/net8.0/C-sharp-June-2025.sourcelink.json
+/workspaces/C-sharp-June-2025/obj/Debug/net8.0/C-sharp-June-2025.dll
+/workspaces/C-sharp-June-2025/obj/Debug/net8.0/refint/C-sharp-June-2025.dll
+/workspaces/C-sharp-June-2025/obj/Debug/net8.0/C-sharp-June-2025.pdb
+/workspaces/C-sharp-June-2025/obj/Debug/net8.0/C-sharp-June-2025.genruntimeconfig.cache
+/workspaces/C-sharp-June-2025/obj/Debug/net8.0/ref/C-sharp-June-2025.dll
